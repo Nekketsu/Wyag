@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wyag", "Wyag\Wyag.csproj", "{591A663A-6315-42D0-971B-027F9882A728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wyag.Cli", "Wyag.Cli\Wyag.Cli.csproj", "{CAE6353F-383E-4BB2-8CAB-614554240E69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{591A663A-6315-42D0-971B-027F9882A728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591A663A-6315-42D0-971B-027F9882A728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591A663A-6315-42D0-971B-027F9882A728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591A663A-6315-42D0-971B-027F9882A728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAE6353F-383E-4BB2-8CAB-614554240E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE6353F-383E-4BB2-8CAB-614554240E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE6353F-383E-4BB2-8CAB-614554240E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE6353F-383E-4BB2-8CAB-614554240E69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F6479D-568B-41E7-B191-635B30F8D42D}
+	EndGlobalSection
+EndGlobal
